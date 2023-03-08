@@ -8,7 +8,7 @@ var bodyParser = require("body-parser");
 
 // Base URL for the API
 //const base_url = "https://api.example.com";
-const base_url = "http://node42597-env-8336138.proen.app.ruk-com.cloud:11460/";
+const base_url = "http://node42597-env-8336138.proen.app.ruk-com.cloud:11460";
 
 
 // Set the template engine
